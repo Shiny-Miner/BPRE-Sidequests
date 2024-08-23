@@ -1,5 +1,7 @@
 ## To compile
 It uses python and devkitarm, run the build2.py , if no message appears it means code compiled successfully and you will get a multi.gba
+### Where to access it?
+Open start menu and press select button to access it.
 # BPRE-Sidequests
 This is a sidequest menu made by Avon from italian forums , all credits to him.
 It can store upto 128 quests , a flag for quest in progress and a flag when complete , has separate pages for completed quests and ongoing quests.
